@@ -56,6 +56,13 @@
         "lesbian": {},
         "pansexual": {},
         "trans": {}
+      },
+    "dirt": {
+      "category": "Dirt",
+      "author": "Shaggy",
+      "variants": {
+        "dirt": {},
+        "dirt_highlight": {}
       }
     }
   },
